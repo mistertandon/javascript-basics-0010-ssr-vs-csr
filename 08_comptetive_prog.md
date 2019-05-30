@@ -1,0 +1,7 @@
+ - [Aaditya Prakash,Random musings of a deep learning grad student](https://iamaaditya.github.io/notes/)
+ - [Pythonic Data Structures and Algorithms](https://github.com/keon/algorithms)
+ - [Top 10 Algorithms and Data Structures for Competitive Programming](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/#algo4)
+ - [Sphere online judge](https://www.spoj.com/)
+ - [spojtoolkit (Test Your Code)](http://spojtoolkit.com/)
+ - [problemclassifier for Sphere online judge](http://problemclassifier.appspot.com/)
+ - [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
